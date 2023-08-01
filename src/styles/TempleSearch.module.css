@@ -1,0 +1,38 @@
+
+/* In the page.module.css file */
+.search {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-top: 27px;
+    flex-direction: unset;
+  }
+  
+  .search button {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f7f7f7;
+    color: #333;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  .search button:hover {
+    border-color: #007bff;
+  }
+  
+  .search button:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px #007bff33;
+  }
+  
+  .main {
+    display: flex;
+    width: 135vh;
+    justify-content: space-around;
+    background-color: black;
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "city": "Amaravati",
+    "areas": ["Area 1", "Area 2", "Area 3", "Area 4"]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "areas": ["Area A", "Area B", "Area C", "Area D"]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "areas": ["Area X", "Area Y", "Area Z"]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "city": "Itanagar",
+    "areas": ["Area P", "Area Q", "Area R"]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "city": "Naharlagun",
+    "areas": ["Area M", "Area N", "Area O"]
+  },
+  {
+    "state": "Assam",
+    "city": "Dispur",
+    "areas": ["Area I", "Area II"]
+  },
+  {
+    "state": "Assam",
+    "city": "Guwahati",
+    "areas": ["Area V", "Area W", "Area U"]
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "areas": ["Area 5", "Area 6", "Area 7"]
+  },
+  {
+    "state": "Bihar",
+    "city": "Gaya",
+    "areas": ["Area 8", "Area 9"]
+  },
+  {
+    "state": "Bihar",
+    "city": "Muzaffarpur",
+    "areas": ["Area 10", "Area 11"]
+  },
+  {
+    "state": "Chhattisgarh",
+    "city": "Raipur",
+    "areas": ["Area F", "Area G", "Area H"]
+  },
+  {
+    "state": "Chhattisgarh",
+    "city": "Bilaspur",
+    "areas": ["Area T", "Area U"]
+  },
+  {
+    "state": "Goa",
+    "city": "Panaji",
+    "areas": ["Area K", "Area L"]
+  },
+  {
+    "state": "Goa",
+    "city": "Margao",
+    "areas": ["Area S", "Area T"]
+  },
+  {
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "areas": ["Area D", "Area E", "Area F"]
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "areas": ["Area 12", "Area 13", "Area 14"]
+  },
+  {
+    "state": "Haryana",
+    "city": "Chandigarh",
+    "areas": ["Area 1", "Area 2"]
+  },
+  {
+    "state": "Haryana",
+    "city": "Faridabad",
+    "areas": ["Area 3", "Area 4", "Area 5"]
+  },
+  {
+    "state": "Haryana",
+    "city": "Gurgaon",
+    "areas": ["Area A", "Area B"]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "areas": ["Area X", "Area Y", "Area Z"]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "city": "Mandi",
+    "areas": ["Area M", "Area N", "Area O"]
+  },
+  {
+    "state": "Jharkhand",
+    "city": "Ranchi",
+    "areas": ["Area I", "Area II", "Area III"]
+  },
+  {
+    "state": "Jharkhand",
+    "city": "Jamshedpur",
+    "areas": ["Area Q", "Area R"]
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "areas": ["Area 8", "Area 9", "Area 10"]
+  },
+  {
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "areas": ["Area P", "Area Q"]
+  },
+  {
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "areas": ["Area 1", "Area 2"]
+  },
+  {
+    "state": "Kerala",
+    "city": "Kochi",
+    "areas": ["Area 3", "Area 4", "Area 5"]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "areas": ["Area 6", "Area 7"]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Indore",
+    "areas": ["Area 10", "Area 11", "Area 12"]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Sagar",
+    "areas": ["Garhakota", "Area 11", "Area 12"]
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "areas": ["Area A", "Area B", "Area C"]
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "areas": ["Area D", "Area E"]
+  },
+  {
+    "state": "Manipur",
+    "city": "Imphal",
+    "areas": ["Area X", "Area Y"]
+  },
+  {
+    "state": "Manipur",
+    "city": "Bishnupur",
+    "areas": ["Area Z", "Area M"]
+  },
+  {
+    "state": "Meghalaya",
+    "city": "Shillong",
+    "areas": ["Area 1", "Area 2"]
+  },
+  {
+    "state": "Meghalaya",
+    "city": "Tura",
+    "areas": ["Area 3", "Area 4", "Area 5"]
+  },
+  {
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "areas": ["Area A", "Area B"]
+  },
+  {
+    "state": "Mizoram",
+    "city": "Lunglei",
+    "areas": ["Area C", "Area D"]
+  },
+  {
+    "state": "Nagaland",
+    "city": "Kohima",
+    "areas": ["Area X", "Area Y"]
+  },
+  {
+    "state": "Nagaland",
+    "city": "Dimapur",
+    "areas": ["Area Z", "Area M"]
+  },
+  {
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "areas": ["Area 1", "Area 2", "Area 3"]
+  },
+  {
+    "state": "Odisha",
+    "city": "Cuttack",
+    "areas": ["Area 4", "Area 5"]
+  },
+  {
+    "state": "Punjab",
+    "city": "Chandigarh",
+    "areas": ["Area A", "Area B"]
+  },
+  {
+    "state": "Punjab",
+    "city": "Ludhiana",
+    "areas": ["Area C", "Area D", "Area E"]
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "areas": ["Area 1", "Area 2", "Area 3"]
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "areas": ["Area 4", "Area 5"]
+  },
+  {
+    "state": "Sikkim",
+    "city": "Gangtok",
+    "areas": ["Area X", "Area Y"]
+  },
+  {
+    "state": "Sikkim",
+    "city": "Namchi",
+    "areas": ["Area Z", "Area M"]
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "areas": ["Area 1", "Area 2", "Area 3"]
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "areas": ["Area 4", "Area 5"]
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "areas": ["Area A", "Area B", "Area C"]
+  },
+  {
+    "state": "Telangana",
+    "city": "Warangal",
+    "areas": ["Area D", "Area E"]
+  },
+  {
+    "state": "Tripura",
+    "city": "Agartala",
+    "areas": ["Area X", "Area Y"]
+  },
+  {
+    "state": "Tripura",
+    "city": "Udaipur",
+    "areas": ["Area Z", "Area M"]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "areas": ["Area 1", "Area 2", "Area 3"]
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "areas": ["Area 4", "Area 5"]
+  },
+  {
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "areas": ["Area A", "Area B", "Area C"]
+  },
+  {
+    "state": "Uttarakhand",
+    "city": "Haridwar",
+    "areas": ["Area D", "Area E"]
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "areas": ["Area X", "Area Y", "Area Z"]
+  },
+  {
+    "state": "West Bengal",
+    "city": "Howrah",
+    "areas": ["Area A", "Area B"]
+  }
+]

@@ -1,0 +1,5 @@
+.main {
+    display: flex;
+    width: 135vh;
+    justify-content: space-around;
+}

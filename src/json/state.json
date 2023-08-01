@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Andhra Pradesh",
+      "capital": "Amaravati",
+      "abbreviation": "AP"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "capital": "Itanagar",
+      "abbreviation": "AR"
+    },
+    {
+      "name": "Assam",
+      "capital": "Dispur",
+      "abbreviation": "AS"
+    },
+    {
+      "name": "Bihar",
+      "capital": "Patna",
+      "abbreviation": "BR"
+    },
+    {
+      "name": "Chhattisgarh",
+      "capital": "Raipur",
+      "abbreviation": "CG"
+    },
+    {
+      "name": "Goa",
+      "capital": "Panaji",
+      "abbreviation": "GA"
+    },
+    {
+      "name": "Gujarat",
+      "capital": "Gandhinagar",
+      "abbreviation": "GJ"
+    },
+    {
+      "name": "Haryana",
+      "capital": "Chandigarh",
+      "abbreviation": "HR"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "capital": "Shimla",
+      "abbreviation": "HP"
+    },
+    {
+      "name": "Jharkhand",
+      "capital": "Ranchi",
+      "abbreviation": "JH"
+    },
+    {
+      "name": "Karnataka",
+      "capital": "Bengaluru",
+      "abbreviation": "KA"
+    },
+    {
+      "name": "Kerala",
+      "capital": "Thiruvananthapuram",
+      "abbreviation": "KL"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "capital": "Bhopal",
+      "abbreviation": "MP"
+    },
+    {
+      "name": "Maharashtra",
+      "capital": "Mumbai",
+      "abbreviation": "MH"
+    },
+    {
+      "name": "Manipur",
+      "capital": "Imphal",
+      "abbreviation": "MN"
+    },
+    {
+      "name": "Meghalaya",
+      "capital": "Shillong",
+      "abbreviation": "ML"
+    },
+    {
+      "name": "Mizoram",
+      "capital": "Aizawl",
+      "abbreviation": "MZ"
+    },
+    {
+      "name": "Nagaland",
+      "capital": "Kohima",
+      "abbreviation": "NL"
+    },
+    {
+      "name": "Odisha",
+      "capital": "Bhubaneswar",
+      "abbreviation": "OD"
+    },
+    {
+      "name": "Punjab",
+      "capital": "Chandigarh",
+      "abbreviation": "PB"
+    },
+    {
+      "name": "Rajasthan",
+      "capital": "Jaipur",
+      "abbreviation": "RJ"
+    },
+    {
+      "name": "Sikkim",
+      "capital": "Gangtok",
+      "abbreviation": "SK"
+    },
+    {
+      "name": "Tamil Nadu",
+      "capital": "Chennai",
+      "abbreviation": "TN"
+    },
+    {
+      "name": "Telangana",
+      "capital": "Hyderabad",
+      "abbreviation": "TG"
+    },
+    {
+      "name": "Tripura",
+      "capital": "Agartala",
+      "abbreviation": "TR"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "capital": "Lucknow",
+      "abbreviation": "UP"
+    },
+    {
+      "name": "Uttarakhand",
+      "capital": "Dehradun",
+      "abbreviation": "UK"
+    },
+    {
+      "name": "West Bengal",
+      "capital": "Kolkata",
+      "abbreviation": "WB"
+    }
+  ]
+  

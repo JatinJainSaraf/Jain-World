@@ -1,0 +1,15 @@
+[
+    {
+        "state": "Madhya Pradesh",
+        "city": "Sagar",
+        "area": "Garhakota",
+        "temples": [
+            {
+                "name": "Shri Shantinath Digamber Jain Mandir",
+                "location": "Pathariya Road",
+                "pincode": 470229,
+                "direction": "https://www.google.com/maps/dir/22.9977913,72.5086396/Q4MW%2B2RR+Jain+temple+garhakota,+Patharia+Rd,+Garhakota,+Madhya+Pradesh+470229/@23.1488178,70.5333068,6z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3978b3226613919d:0xa5fb64a188d4979d!2m2!1d79.1471161!2d23.782581?entry=ttu"
+            }
+        ]
+    }
+]
